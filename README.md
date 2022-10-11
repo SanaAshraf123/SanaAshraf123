@@ -1,6 +1,7 @@
- <body style="background-color="plum";>
+ <div style="bg-color:purplr;">
  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-<h1 align="center">Hi 👋, I'm Sana</h1>
+<h1 align="center">Hi 👋, I'm Sana  👩🏻‍💻 
+</h1>
 <h3 align="center">A passionate frontend developer from Pakistan . I do content on Design and Development. I really enjoy learning languages and frameworks like JavaScript, TS, Angular, Bootstrap... I also enjoy UI, UX, and design in general.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*kNkpneo3OGZC1gw1BYHulA.gif">
@@ -48,3 +49,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaashraf123&show_icons=true&locale=en" alt="sanaashraf123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaashraf123&" alt="sanaashraf123" /></p>
+</div>
