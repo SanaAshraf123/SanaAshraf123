@@ -1,4 +1,4 @@
-  <img align="center" alt="Coding" width="1100" height="400" src="https://www.pluralsight.com/content/dam/pluralsight/blog/thumbnails/dt/2014/09/front-end-web/featured2.jpg">
+  <img align="center" alt="Coding" width="1100" height="200" src="https://www.pluralsight.com/content/dam/pluralsight/blog/thumbnails/dt/2014/09/front-end-web/featured2.jpg">
  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <h1 align="center">Hi 👋, I'm Sana  👩🏻‍💻 
 </h1>
