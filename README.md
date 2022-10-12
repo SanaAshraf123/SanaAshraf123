@@ -1,12 +1,13 @@
-  <img align="center" alt="Coding" width="1100" height="200" src="https://www.pluralsight.com/content/dam/pluralsight/blog/thumbnails/dt/2014/09/front-end-web/featured2.jpg">
+ 
  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <h1 align="center">Hi 👋, I'm Sana  👩🏻‍💻 
 </h1>
 <h3 align="center">A passionate frontend developer from Pakistan . I do content on Design and Development. I really enjoy learning languages and frameworks like JavaScript, TS, Angular, Bootstrap... I also enjoy UI, UX, and design in general.</h3>
  <br><br>
+ <img align="center" alt="Coding" width="1100" height="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*kNkpneo3OGZC1gw1BYHulA.gif">
-<br><br><br>
+
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaashraf123&label=Profile%20views&color=0e75b6&style=flat" alt="sanaashraf123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanaashraf123" alt="sanaashraf123" /></a> </p>
@@ -44,8 +45,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   </body> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaashraf123&show_icons=true&locale=en&layout=compact" alt="sanaashraf123" /></p>
+ 
+ <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*kNkpneo3OGZC1gw1BYHulA.gif"><img align="right" alt="Coding" width="400" border-radius="2px solid black" src="https://www.bluecompass.com/filesimages/News%20and%20Blog/2019/blue-compass-homepage.gif">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaashraf123&show_icons=true&locale=en&layout=compact" alt="sanaashraf123" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaashraf123&show_icons=true&locale=en" alt="sanaashraf123" /></p>
 
